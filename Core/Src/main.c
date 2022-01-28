@@ -122,9 +122,9 @@ int main(void)
 	 HAL_Delay(400);
 
 	 CAN_TX1();
-	 HAL_Delay(200);
+	 HAL_Delay(50);
 	 CAN_TX2();
-	 HAL_Delay(200);
+	 HAL_Delay(50);
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
